@@ -1,4 +1,4 @@
-import dbConnect from '../config/database.js';  // This is correct for default export
+import dbConnect from '../config/database.js';  
 
 
 import express from 'express';
